@@ -1,5 +1,13 @@
-### Hi there 👋
-See [sbrockma.github.io](https://sbrockma.github.io)
+# Hi there 👋
+
+## std-format
+Published my string formatting lib std-format for js/ts:
+* [std-format](https://github.com/sbrockma/std-format#readme) on github
+* [std-format](https://www.npmjs.com/package/@sbrockma/std-format) on npm
+
+## Misc
+Misc stuff on [sbrockma.github.io](https://sbrockma.github.io)
+
 <!--
 **sbrockma/sbrockma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
