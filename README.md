@@ -1,10 +1,5 @@
 # Hi there 👋
 
-## std-format
-Published my string formatting lib std-format for js/ts:
-* [std-format](https://github.com/sbrockma/std-format#readme) on github
-* [std-format](https://www.npmjs.com/package/@sbrockma/std-format) on npm
-
 ## Misc
 Misc stuff on [sbrockma.github.io](https://sbrockma.github.io)
 
